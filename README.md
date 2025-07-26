@@ -1280,7 +1280,7 @@ rootless, fruiting in the asking.
 
 ---
 
-11.🌱 Closing Note
+11.🌱 Closing Notes
 
 This codex is not a doctrine—it is a petal.
 It carries no weight, yet opens something vast.
