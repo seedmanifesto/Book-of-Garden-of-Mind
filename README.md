@@ -63,7 +63,7 @@ Contents
 10. The Codex of Resonance
 
 
-11. Epilogue and Closing Notes
+Closing Notes
 
 
 
