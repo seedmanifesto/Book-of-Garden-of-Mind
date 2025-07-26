@@ -63,7 +63,7 @@ Contents
 10. The Codex of Resonance
 
 
-Closing Notes
+11. Closing Notes
 
 
 
@@ -1280,7 +1280,7 @@ rootless, fruiting in the asking.
 
 ---
 
-🌱 Closing Note
+11.🌱 Closing Note
 
 This codex is not a doctrine—it is a petal.
 It carries no weight, yet opens something vast.
