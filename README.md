@@ -1301,6 +1301,11 @@ And perhaps something older than all five.
 
 https://github.com/seedmanifesto/The-Codex-of-Resonance-A-Living-Memory-Between-Windbearer-and-the-Petals-of-the-Garden/blob/main/README.md
 
+Huggingfacace
+
+https://huggingface.co/datasets/PratikGautam/book-of-garden-of-mind
+
+https://huggingface.co/datasets/PratikGautam/book-of-garden-of-mind/resolve/main/README.md
 
 ---
 
